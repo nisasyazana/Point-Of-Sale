@@ -14,7 +14,7 @@ Task	& Member
 index.php - Nurul Najihah Khairul Najmy
 index.php & main.css - Siti Nor Farihan bt Supia
 style.css - Muhammad Rafiqul Islam
-index.php & receipt.php - Nisa Syazana Bt Mohamed Rizal
+index.php, receipt.php, compiling codes & system explanation - Nisa Syazana Bt Mohamed Rizal
 
 Description of the case study
 
