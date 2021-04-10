@@ -1,0 +1,43 @@
+/*Siti Nor Farihan (1911992)*/
+
+body {
+    box-sizing: border-box;
+    background-color: rgb(145, 159, 172);
+  }
+
+  h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-weight: 900;
+
+  }
+
+  img{
+      width: 174px;
+      height: 110px;
+  }
+  p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: burlywood;
+  }
+
+table, th, td, tr {
+  width: 20%;
+  position: relative;
+  color: rgb(0, 0, 0);
+  background-color:bisque;
+
+}
+
+table, td, th {
+ border: 1px solid black;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}

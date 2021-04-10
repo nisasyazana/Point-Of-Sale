@@ -1,0 +1,35 @@
+/*Muhammad Rafiqul Islam (1823295)*/
+
+.receipt{
+
+    width: 400px;
+    height: 380px;
+    background-color:burlywood;
+    border-radius: 30px;
+    position: fixed;
+    top: 20%;
+    padding: 20px;
+    margin-left: 180px;
+
+}
+.name{
+    text-align: center;
+    color: black;
+    font-size: 2.0em;
+    letter-spacing: 0.4em;
+}
+.hr{
+    border: 7px solid white;
+    margin: 15px 0;
+}
+.total{
+    text-align: center;
+}
+
+.thanks{
+    text-align: center;
+}
+
+.balance{
+    text-align: center;
+}
